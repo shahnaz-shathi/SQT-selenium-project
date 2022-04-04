@@ -1,0 +1,36 @@
+{
+  "name": "travelbliss_updatework",
+  "version": "1.0.0",
+  "description": "SQT_Project-Automation_Selenium",
+  "main": "td-app.js",
+  "scripts": {
+    "travelbliss": "nodemon td-app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emon-iqbal/SQT_Selenium_ProjectWork.git"
+  },
+  "keywords": [
+    "sqt_selenium_travelbliss"
+  ],
+  "author": "emon-iqbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emon-iqbal/SQT_Selenium_ProjectWork/issues"
+  },
+  "homepage": "https://github.com/emon-iqbal/SQT_Selenium_ProjectWork#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-api-response": "^0.4.1",
+    "express-fileupload": "^1.2.1",
+    "express-session": "^1.17.2",
+    "express-validator": "^6.12.1",
+    "html-pdf": "^2.2.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.12",
+    "selenium-webdriver": "^4.0.0-beta.4"
+  },
+  "devDependencies": {}
+}
